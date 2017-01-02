@@ -1,0 +1,2 @@
+Use machine learning algorithm to classify IMDB reveiews in text format, based on Natural Language Processing methods.
+Review documents are represented as a feature vector using the bag-of-words model.
